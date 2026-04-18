@@ -36,7 +36,7 @@ This project features dynamic product sliders, shopping cart functionality, and 
 
 ## 🚀 Live Demo
 
-https://username.github.io/mahmoud-online-shop/
+(https://mahmoudkourd2004-prog.github.io/mahmoud-online-shop/)
 
 ---
 
